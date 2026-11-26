@@ -21,4 +21,4 @@
 * [Task 2](elixir/ch-2.exs)
 
 ## Blog Post
-[Perl Weekly Challenge: We rolled down the long and winding interstate in our '53 DeSota...](https://packy.dardan.com/b/13f)
+[Perl Weekly Challenge: Zydeco? Why Zydeco?](https://packy.dardan.com/b/14X)
